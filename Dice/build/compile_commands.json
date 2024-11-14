@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/suzan.awinat/Documents/IE 2024-2025/CP9-24/Module IV/Dice/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -std=gnu11 -o CMakeFiles\\dice.dir\\dice.c.obj -c \"C:\\Users\\suzan.awinat\\Documents\\IE 2024-2025\\CP9-24\\Module IV\\Dice\\dice.c\"",
+  "file": "C:\\Users\\suzan.awinat\\Documents\\IE 2024-2025\\CP9-24\\Module IV\\Dice\\dice.c",
+  "output": "CMakeFiles\\dice.dir\\dice.c.obj"
+}
+]

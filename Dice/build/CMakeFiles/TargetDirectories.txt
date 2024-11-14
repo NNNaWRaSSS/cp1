@@ -1,0 +1,4 @@
+C:/Users/suzan.awinat/Documents/IE 2024-2025/CP9-24/Module IV/Dice/build/CMakeFiles/dice.dir
+C:/Users/suzan.awinat/Documents/IE 2024-2025/CP9-24/Module IV/Dice/build/CMakeFiles/test.dir
+C:/Users/suzan.awinat/Documents/IE 2024-2025/CP9-24/Module IV/Dice/build/CMakeFiles/edit_cache.dir
+C:/Users/suzan.awinat/Documents/IE 2024-2025/CP9-24/Module IV/Dice/build/CMakeFiles/rebuild_cache.dir
