@@ -1,0 +1,11 @@
+# Compile server
+gcc server.c -o server
+
+# Compile client
+gcc client.c -o client
+
+# Run server
+./server
+
+# Run client (in another terminal)
+./client
